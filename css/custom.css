@@ -9,3 +9,9 @@
 **********************************************************************************/
 
 @import url(//db.onlinewebfonts.com/c/5cbc3d5ef704dcc28912f6d797ace23d?family=Peugeot+Light);
+
+@media (max-width: 600px) {
+  #fix-media {
+    margin-top: 50px;
+  }
+}
